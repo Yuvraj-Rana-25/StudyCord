@@ -77,8 +77,8 @@ StudyCord/
 #### Home Page
 ![home](static/App_Preview/Home_Page.png)
 #### Room Page
-![room](static/App_Preview/Study_Room.png)
+![room](static/App_Preview/Room_Page.png)
 #### Login Page
-![](static/App_Preview/Login.png)
+![login](static/App_Preview/Login.png)
 
 
