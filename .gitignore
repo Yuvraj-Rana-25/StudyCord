@@ -2,3 +2,5 @@
 /db.sqlite3
 /manage.py
 /structure.txt
+__pycache__/
+*.py[cod]
