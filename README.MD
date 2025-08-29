@@ -52,24 +52,24 @@ StudyCord/
    cd StudyCord
    ```
 2. **Create and activate virtual environment**
-```bash
-python -m venv venv
-source venv/bin/activate    # On Linux/Mac
-venv\Scripts\activate       # On Windows
-```
+   ```bash
+   python -m venv venv
+   source venv/bin/activate    # On Linux/Mac
+   venv\Scripts\activate       # On Windows
+   ```
 3. **Run migrations**
-```bash
-python manage.py migrate
-```
+   ```bash
+   python manage.py migrate
+   ```
 4. **Create a superuser**
-```bash
-python manage.py createsuperuser
-```
+   ```bash
+   python manage.py createsuperuser
+   ```
 
 5. **Start the development server**
-```bash
-python manage.py runserver
-```
+   ```bash
+   python manage.py runserver
+   ```
 
 6. **Open in browser:** http://127.0.0.1:8000/
 
